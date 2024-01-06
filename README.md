@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/head.png" width="300" height="300" alt="Centered Image"/>
+  <img src="images/head.png" width="300" height="250" alt="Centered Image"/>
 </div>
 
 <div align="center">
