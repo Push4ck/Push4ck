@@ -16,9 +16,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://www.linkedin.com/in/pushkarsharma652/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Pushkar | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/pushkar.io"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Pushkar | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Pushkar | Medium" width="21px"/></a>
+<a href="https://cyberhub.hashnode.dev/"><img align="left" src="https://github.com/Push4ck/about/assets/96145925/f901de17-9434-4b01-bd56-8ca2b6685eb9" alt="Pushkar | Hashnode" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
