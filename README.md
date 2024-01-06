@@ -2,6 +2,8 @@
   <img src="images/head.png" width="300" height="250" alt="Centered Image"/>
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/pushkarsharma652/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
