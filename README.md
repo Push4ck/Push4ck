@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" loop="infinite" width="100"/>
+  <img src="images/head.png" width="600" height="300" alt="Centered Image"/>
 </div>
 
 <div align="center">
