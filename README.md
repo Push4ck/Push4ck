@@ -24,7 +24,7 @@
 
 <br>
 
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hey there! <img src="images/hello.png" />
 
 <div style="height: 300px; position: relative; overflow: hidden;">
   <div align="center" style="position: sticky; top: 0; width: 100%;">
@@ -32,7 +32,7 @@
   </div>
 </div>
 
-I am a Front End Developer <img src="images/coder.png" width="16" height="16" /> from India.
+I am a Front End Developer <img src="images/coder.png" width="18" height="18" /> from India.
 
 - :telescope: I’m working as a frontend developer for building web applications.
 - :seedling: Exploring Technical Content Writing.
