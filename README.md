@@ -33,9 +33,9 @@
   </div>
 </div>
 
-I am a Front End Developer <img src="images/coder.png" width="18" height="18" /> from India.
-
 <br>
+
+I am a Front End Developer <img src="images/coder.png" width="18" height="18" /> from India.
 
 - :telescope: I’m working as a frontend developer for building web applications.
 - :seedling: Exploring Technical Content Writing.
