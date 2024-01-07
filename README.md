@@ -25,9 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=push4ck&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Hey there! <img src="images/hello.png" />
-
----
+<h1> Hey there! <img src="images/hello.png" /> </h1>
 
 <div style="height: 300px; position: relative; overflow: hidden;">
   <div align="center" style="position: sticky; top: 0; width: 100%;">
