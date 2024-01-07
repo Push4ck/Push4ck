@@ -35,6 +35,8 @@
 
 I am a Front End Developer <img src="images/coder.png" width="18" height="18" /> from India.
 
+<br>
+
 - :telescope: I’m working as a frontend developer for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I play badminton, listen to music, and read tech articles.
