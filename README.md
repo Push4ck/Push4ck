@@ -27,6 +27,8 @@
 
 # Hey there! <img src="images/hello.png" />
 
+---
+
 <div style="height: 300px; position: relative; overflow: hidden;">
   <div align="center" style="position: sticky; top: 0; width: 100%;">
     <img src="images/main.jpg" width="600" height="300" alt="Centered Image"/>
