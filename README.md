@@ -37,7 +37,7 @@ I am a Front End Developer <img src="images/coder.png" width="18" height="18" />
 
 - :telescope: I’m working as a frontend developer for building web applications.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I play badminton, listen to music, and read tech articles.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-push4ck-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pushkarsharma652/)
 
 ---
