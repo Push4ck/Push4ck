@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pushkar Sharma
 #### Front-End Developer
-![Front-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Front-End Developer](images/GitHub-banner.png)
 
 I build beautiful & responsive websites.
 
