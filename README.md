@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="assets/GitHub-banner.png" alt="banner" />
+  <img src="images/GitHub-banner.png" alt="banner" />
 </div>
 
 ###
