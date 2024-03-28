@@ -72,7 +72,7 @@
   <a href="https://youtube.com/@TheCyberHub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://linkedin.com/in/pushkarsharma652/" target="_blank">
+  <a href="https://linkedin.com/in/push4ck/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:push4ck@gmail.com" target="_blank">
